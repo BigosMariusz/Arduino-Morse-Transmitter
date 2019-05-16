@@ -1,3 +1,6 @@
 # Arduino Morse Transmitter
 
-Input letters form keypad 4x3 and display on LCD 16x2. 
+The user enter message and presses enter. The buzzer gives a message.
+
+### Physical schema:
+![Photo from imgur](https://i.imgur.com/dh4kLNR.png)
